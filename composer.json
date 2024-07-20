@@ -1,0 +1,15 @@
+{
+	"name": "noahott/forms-gutenberg",
+	"description": "The Next Generation WordPress Form Builder.",
+	"type": "wordpress-plugin",
+	"license": "GPL 2.0",
+	"authors": [
+		{
+			"name": "Nikolay Strikhar"
+		}
+	],
+	"minimum-stability": "dev",
+	"repositories": [],
+	"require": {},
+	"require-dev": {}
+}
