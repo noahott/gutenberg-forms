@@ -1,15 +1,18 @@
 {
-	"name": "wptotem/gutenberg-forms",
-	"description": "description",
-	"minimum-stability": "stable",
-	"license": "proprietary",
+	"name": "noahott/gutenberg-forms",
+	"description": "The Next Generation WordPress Form Builder.",
+	"type": "wordpress-plugin",
+	"license": "GPL 2.0",
 	"authors": [
 		{
-			"name": "Nikolay Strikhar",
-			"email": "nikolay.strikhar@gmail.com"
+			"name": "Nikolay Strikhar"
 		}
 	],
+	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {"GutenbergForms\\Core\\": "src/Core"}
-	}
+	},
+	"repositories": [],
+	"require": {},
+	"require-dev": {}
 }
